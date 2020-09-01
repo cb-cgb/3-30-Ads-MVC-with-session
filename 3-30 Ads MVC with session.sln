@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-30 Ads MVC with session", "3-30 Ads MVC with session\3-30 Ads MVC with session.csproj", "{D942E146-8A54-422E-8787-C35C94C50CD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdListing", "AdListing\AdListing.csproj", "{69562B1F-E358-4356-8CFA-27D3D30701FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D942E146-8A54-422E-8787-C35C94C50CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D942E146-8A54-422E-8787-C35C94C50CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D942E146-8A54-422E-8787-C35C94C50CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D942E146-8A54-422E-8787-C35C94C50CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69562B1F-E358-4356-8CFA-27D3D30701FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69562B1F-E358-4356-8CFA-27D3D30701FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69562B1F-E358-4356-8CFA-27D3D30701FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69562B1F-E358-4356-8CFA-27D3D30701FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24DD93A0-9C62-4131-9DA2-8D4C0EA9A0CF}
+	EndGlobalSection
+EndGlobal
